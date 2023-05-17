@@ -52,6 +52,6 @@
   CubeRunner :
 
 </h3>
-  
-![demo](https://github.com/quentinmel/AboutMe/assets/112957970/c39b74ce-9254-46a0-93c2-2cc5e4536bae)
+  ![demo](https://github.com/quentinmel/quentinmel/assets/112957970/7b4854f0-13d3-42a4-806b-531091d0dc12)
+
 
