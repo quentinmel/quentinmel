@@ -45,7 +45,6 @@
   HangmanWeb : 
 </h3>
 
-  ![alt tag](https://user-images.githubusercontent.com/112957970/210276937-267aa5d6-1d4a-47bd-86e9-e0824bf650f9.png)
   ![alt tag](https://user-images.githubusercontent.com/112957970/210277262-bf3d25cc-8fa2-41b3-9a8b-120a3b5393c7.png)
   
 <h3>
