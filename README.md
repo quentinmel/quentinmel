@@ -55,9 +55,11 @@
   ![demo](https://github.com/quentinmel/quentinmel/assets/112957970/7142c91d-06fa-46d1-9840-2fa3f280d8e1)
 
 <h3>
-  [Agarpyo](https://github.com/B2-Info-23-24/agarpyo-b2-b-quentinmel) :
+  Agarpyo : 
   
 </h3>
+
+[Link to repos](https://github.com/B2-Info-23-24/agarpyo-b2-b-quentinmel)
 
 ![agarpyo](https://github.com/quentinmel/quentinmel/assets/112957970/83595ecd-15d3-4ab8-9452-103e9f7c181b)
 
