@@ -37,9 +37,7 @@
 
 ---
 
-<h2>
-  <strong>[Portfolio](https://quentinmel.github.io/)</strong>
-</h2>
+[test](https://quentinmel.github.io)
 
 ---
 
