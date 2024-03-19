@@ -10,9 +10,9 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: I am a first year computer science student.
+- :telescope: I am a bachelor 2 computer science student.
 
-- :zap: In my free time, I learn C# and Unity
+- :zap: In my free time, I learn NodeJs ans other web langage
 
 - :mailbox:How to reach me: 
 <div id="badges">
